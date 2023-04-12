@@ -1,3 +1,3 @@
 # Webdev
 
-a basic number counter site
+A basic number counter site
